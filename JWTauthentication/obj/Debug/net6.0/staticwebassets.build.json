@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RubuECT3tMoW2P2WrDCVE13YWbPfqI3iYx1oXDBILlk=",
+  "Source": "JWTauthentication",
+  "BasePath": "_content/JWTauthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
